@@ -1,0 +1,8 @@
+The easiest way to run the program is:
+
+$ go run proto.go
+
+You may also compile and run it in two steps:
+
+$ go build
+$ ./proto
